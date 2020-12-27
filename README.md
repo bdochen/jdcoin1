@@ -37,7 +37,7 @@ cookies
 * 当任务运行完成时，会将运行结果和错误信息打包到`Artifacts`，可自行下载查看；
 * 如果配置了Server酱，运行结果会推送到微信；
 
-## 获取京东cookie
+## 获取京东cookie  RF
 
 * 使用项目中的Chrome插件：`JDCookie`；
 * Chrome中拓展程序开启`开发者模式`；
